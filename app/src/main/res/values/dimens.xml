@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+
+    <dimen name="card_elevation">2.dp</dimen>
+    <dimen name="card_content_height">64dp</dimen>
+    <dimen name="card_hero_image_size">72dp</dimen>
+
+</resources>

@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">SuperHeroApp</string>
 
+<!--    TopAppBarTitle-->
+    <string name="top_app_bar_title">Superheroes</string>
+
 <!--    HeroInfo-->
     <string name="hero1">Nick the Night and Day</string>
     <string name="description1">The Jetpack Hero</string>
